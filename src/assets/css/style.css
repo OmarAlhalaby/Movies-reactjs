@@ -1,0 +1,19 @@
+.on-hover-dv {
+    position: absolute;
+    left: 10;
+    top: 0;
+    width: 249px;
+    height: 293px;
+    background-color: black;
+    opacity: 0.9;
+}
+
+.on-hover-dv-inside {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
+.movie-details {
+    background: #fcf0f5
+}
