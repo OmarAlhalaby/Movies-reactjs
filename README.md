@@ -45,8 +45,9 @@ http://api.themoviedb.org/3/movie/328111?api_key=328c283cd27bd1877d9080ccb1604c9
 
 ### Technical requirements:
 
-Web (ReactJS) 
+|Web (ReactJS) |
 | ---- |
-| Dependency Injection | MVVM or VIPER | Context API & hooks | State to store value & support 2 way data binding |
-| | Dependency Injection - Dagger or Koin or Hilt | Use correct routes, param & URL (include navigation & not found routes) | Use correct routes, param & URL (include navigation & not found routes) |
-| | Data Binding | Knowledge & experience using typescript is a must | |
+| React based framework (ReactJS, create-react-app, etc) | CSS or SASS |
+Context API & hooks | Use correct routes, param & URL (include navigation & not found routes) |
+using typescript |
+
