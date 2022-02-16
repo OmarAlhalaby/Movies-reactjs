@@ -47,7 +47,9 @@ http://api.themoviedb.org/3/movie/328111?api_key=328c283cd27bd1877d9080ccb1604c9
 
 |Web (ReactJS) |
 | ---- |
-| React based framework (ReactJS, create-react-app, etc) | CSS or SASS |
-Context API & hooks | Use correct routes, param & URL (include navigation & not found routes) |
-using typescript |
+| React based framework (ReactJS, create-react-app, etc) |
+| CSS or SASS |
+| Context API & hooks | 
+| Use correct routes, param & URL (include navigation & not found routes) |
+| using typescript |
 
